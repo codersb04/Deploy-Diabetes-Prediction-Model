@@ -28,6 +28,7 @@ Libraries needed to achieve the task:
 ### Steps to run the code
 - Requirement: Install all the Necessary tools and Libraries mentioned above
 - Run the file Diabetes_predictive_webapp.py
+- Open the terminal of Anconda Navigator and type **streamlit run "File_path including name"** and our default webpage would be loaded with basic page with input text and buttons.
 - Create model in also added with repo under the name 'trainedModel.sav'
 - Jupyter file for the main model building and loading is included to show the usage of pickle function
 - A preview of web page screeenshot for Streamlit can be checked under the names Streamlit_Load_preview.png and Streamlit_Printing_Prediction_preview.png</br></br></br>
